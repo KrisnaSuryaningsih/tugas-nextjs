@@ -6,6 +6,7 @@ Nama : Krisna Suryaningsih
 Nim : 3.34.24.3.12
 Kelas : IK-2D
 Mata Kuliah : Pemrograman Web II
+Pengampu : Pak Amran
 
 ## Deskripsi Proyek
 Proyek ini merupakan aplikasi web sederhana menggunakan **Next.js** yang terdiri dari:
